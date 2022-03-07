@@ -4,7 +4,7 @@
   font-family: "Itim", cursive;
 }
 .fundo {
-  background-color: #12181b;
+  background-color: #1f1e33;
   height: 100vh;
   padding: 1px;
   margin: 0px;
@@ -53,7 +53,7 @@
   color: cadetblue;
 }
 .jogadorO {
-  color: rgb(112, 91, 32);
+  color: greenyellow;
 }
 .controles {
   display: flex;
